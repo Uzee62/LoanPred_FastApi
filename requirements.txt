@@ -1,8 +1,7 @@
 
-FastApi
+fastapi
 uvicorn
 pydantic
-pickle
+pickle5
 scikit-learn
-pandas
 numpy
