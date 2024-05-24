@@ -1,0 +1,8 @@
+python 3.11.4
+FastApi
+uvicorn
+pydantic
+pickle
+scikit-learn
+pandas
+numpy
